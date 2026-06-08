@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Noticias IRO</string>
+    <string name="loading">Cargando noticias...</string>
+    <string name="error">Error al cargar noticias</string>
+    <string name="retry">Reintentar</string>
+    <string name="no_internet">No hay conexión a Internet</string>
+    <string name="pull_to_refresh">Desliza hacia abajo para actualizar</string>
+</resources>
